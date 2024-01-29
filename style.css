@@ -7,6 +7,7 @@ body {
     background-color: rgb(2, 58, 65);
     color: white;
     font-family: "Poppins", sans-serif;
+   
 }
 
 nav {
@@ -29,17 +30,29 @@ nav ul li {
 
 .left {
     font-size: 1.5rem;
+    padding-left: 7%;
+
+}
+.right{
+    padding-left: 10%;
+    margin-left: 15%;
+    
 }
 .orange{
-    color: rgb(147, 248, 147);
+    color: rgb(194, 188, 114);
 }
 section{
     display: flex;
+    
 }
 .half-width{
     width: 70%;
     padding-left: 10%;
+    font-size: large;
+    
+    
 }
+
 main{
     margin-top: 5%;
 }
@@ -51,18 +64,11 @@ main{
     text-decoration: none;
     color: white;
     
-    background-image: linear-gradient(rgb(255, 17, 0), rgb(217, 255, 0));
+    background-image: linear-gradient(rgb(4, 110, 61), rgb(199, 146, 1));
     padding: 10px 40px ;
     border-radius: 5px;
     font-weight: 700;
-
-
-    
 }
-.half-width {
-    font-weight: 900;
-    
-}
-    
-
+.dream-big{
+    margin-top: 150px;
 }
