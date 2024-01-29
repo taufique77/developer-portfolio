@@ -41,7 +41,7 @@ nav ul li {
 .orange{
     color: rgb(194, 188, 114);
 }
-section{
+.flexible-cintainer{
     display: flex;
     
 }
@@ -71,4 +71,19 @@ main{
 }
 .dream-big{
     margin-top: 150px;
+}
+.flexible{
+    display: flex;
+    
+}
+.width{
+    width: 50%;
+}
+.right-width{
+    padding-left: 20%;
+    padding-right: ;
+}
+.left-width{
+    padding-left:16%;
+    
 }
