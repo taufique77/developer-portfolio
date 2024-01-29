@@ -74,16 +74,43 @@ main{
 }
 .flexible{
     display: flex;
+    margin-top: 50px;
     
 }
-.width{
+.width-one{
     width: 50%;
+    padding: 30px 40px 40px 10px;
+    box-shadow: 10px 10px 40px rgb(0, 0, 0);
+    margin-left: 10%;
+    margin-right: %;  
+}
+.width-two{
+    width: 50%;
+    
+    box-shadow: 10px 10px 40px rgb(0, 0, 0);
+    margin-left: 5%;
+    margin-right: 4%;
+    padding-top: 30px;
+    
 }
 .right-width{
-    padding-left: 20%;
-    padding-right: ;
+    padding-left: 10%;
+  
 }
 .left-width{
-    padding-left:16%;
+    padding-left:10%;
     
 }
+.experiences{
+    margin-top: 30px;
+    margin-bottom: 100px;
+}
+#first{
+   
+    display: flex;
+    justify-content: space-around;
+}
+.red{
+    color: rgb(106, 235, 0);
+}
+
