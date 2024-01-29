@@ -9,6 +9,9 @@ body {
     font-family: "Poppins", sans-serif;
    
 }
+h1{
+    font-size: 35px;
+}
 
 nav {
     display: flex;
@@ -82,7 +85,11 @@ main{
     padding: 30px 40px 40px 10px;
     box-shadow: 10px 10px 40px rgb(0, 0, 0);
     margin-left: 10%;
-    margin-right: %;  
+    border-left:5px solid ;
+    border-image: linear-gradient(rgb(233, 117, 8), rgb(2, 80, 224)) 27;
+    
+   
+    
 }
 .width-two{
     width: 50%;
@@ -91,6 +98,9 @@ main{
     margin-left: 5%;
     margin-right: 4%;
     padding-top: 30px;
+    border-left:5px solid ;
+    border-image: linear-gradient(rgb(8, 172, 22), rgb(165, 156, 156)) 27;
+    
     
 }
 .right-width{
