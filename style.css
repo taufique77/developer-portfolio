@@ -123,4 +123,10 @@ main{
 .red{
     color: rgb(106, 235, 0);
 }
+footer{
+    display: flex;
+    justify-content: center;
+    margin-top: 150px;
+    margin-bottom: 40px;
+}
 
